@@ -17,6 +17,8 @@
 </div>
 
 ---
+<img width="1300" height="546" alt="dd" src="https://github.com/user-attachments/assets/5b8431a9-4a09-408d-b48b-7697aec212f2" />
+
 
 ## 📑 Table of Contents
 - [Executive Overview](#-executive-overview)
